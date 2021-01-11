@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+    @apply px-3 py-2 text-xs font-bold tracking-wider uppercase rounded-full cursor-pointer;
+}
